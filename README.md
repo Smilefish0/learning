@@ -1,2 +1,2 @@
-# labs
+# Learning
 A learning project
